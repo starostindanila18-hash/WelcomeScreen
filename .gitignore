@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# macOS
+.DS_Store
+._*
+
+# PyCharm
+.idea/
+
+# Лишние файлы проекта
+notebook.ipynb
+script1.py
+setup.py
+word_to_excel.py
+Яндекс_*.py
+Ended_Applications*
